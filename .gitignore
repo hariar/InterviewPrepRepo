@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HelloWorldProject/.vs/HelloWorldProject/v14/.suo
+/HelloWorldProject/HelloWorldProject/bin/Debug/HelloWorldProject.vshost.exe.manifest
+/HelloWorldProject/HelloWorldProject/bin/Debug/HelloWorldProject.vshost.exe.config
+/HelloWorldProject/HelloWorldProject/bin/Debug/HelloWorldProject.vshost.exe
+/HelloWorldProject/HelloWorldProject/bin/Debug/HelloWorldProject.exe.config
+/HelloWorldProject/HelloWorldProject/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/HelloWorldProject/HelloWorldProject/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/HelloWorldProject/HelloWorldProject/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/HelloWorldProject/HelloWorldProject/obj/Debug/HelloWorldProject.csproj.FileListAbsolute.txt
+/HelloWorldProject/HelloWorldProject/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
